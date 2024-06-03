@@ -55326,7 +55326,7 @@ A.AG.prototype={}
 A.mP.prototype={
 D(){return"Variant."+this.b}}
 A.yR.prototype={
-P(a){return new A.q0(B.BZ,"Flutter Demo",A.a89(null,A.ae5(B.M,B.BO),!0),null)}}
+P(a){return new A.q0(B.BZ,"Flutter Demoss",A.a89(null,A.ae5(B.M,B.BO),!0),null)}}
 A.qe.prototype={
 aw(){return new A.u3(B.q)}}
 A.u3.prototype={
